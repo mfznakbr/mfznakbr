@@ -9,7 +9,7 @@
 - 📊 I'm passionate about data-driven decision-making and aspire to become a Data Analyst.  
 - 🤖 I specialize in Machine Learning, especially in structured data use-cases like classification, regression, and recommendation systems.
 
-#### Skills
+### Skills
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </p>
 
-#### Connect With Me
+### Connect With Me
 
 
 <p align="center">
