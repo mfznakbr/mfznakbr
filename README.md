@@ -39,7 +39,7 @@
       <a href="https://www.linkedin.com/in/muhammad-fauzani-akbar-2a5g8/">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="right" height="100" src="[https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/Bk3k64kFvD0AAAAd/boruto-karma.gif)"  />
 </p>
 
 <p>
