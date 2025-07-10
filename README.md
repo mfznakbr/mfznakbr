@@ -33,10 +33,18 @@
     <a href="https://www.linkedin.com/in/muhammad-fauzani-akbar-2a5g8/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+      <a href="https://www.linkedin.com/in/muhammad-fauzani-akbar-2a5g8/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+      <a href="https://www.linkedin.com/in/muhammad-fauzani-akbar-2a5g8/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
 </p>
 
-
+<p>
+  .
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfznakbr/mfznakbr/output/pacman-contribution-graph-dark.svg">
