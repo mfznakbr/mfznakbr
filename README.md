@@ -26,12 +26,15 @@
 ### Connect With Me
 
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/fzna_kbr">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
     <a href="https://www.linkedin.com/in/muhammad-fauzani-akbar-2a5g8/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
 </p>
+
+
 
