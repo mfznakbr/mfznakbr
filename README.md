@@ -34,10 +34,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
       <a href="https://www.linkedin.com/in/muhammad-fauzani-akbar-2a5g8/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
       <a href="https://www.linkedin.com/in/muhammad-fauzani-akbar-2a5g8/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
 </p>
